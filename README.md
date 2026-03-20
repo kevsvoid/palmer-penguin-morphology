@@ -21,10 +21,9 @@ The analysis is driven by a Python-based pipeline (`penguin_morphology_analysis.
 - `data/`
     - `penguins_raw.csv`: The original, unprocessed field data (17 columns).
     - `cleaned_penguin_data.csv`: The refined dataset exported after the Python cleaning process.
-- `notebooks/`
-    - `penguin_morphology_analysis.ipynb`: The primary Jupyter Notebook containing the cleaning, EDA, and analysis code.
 - `outputs/`
     - `report_visuals.png`: Final visualization showing species distribution and mass-to-flipper correlation.
+- `penguin_morphology_analysis.ipynb`: The primary Jupyter Notebook containing the cleaning, EDA, and analysis code.
 - `README.md`: Project documentation.
 
 ## How to Run

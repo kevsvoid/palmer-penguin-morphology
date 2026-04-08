@@ -43,4 +43,3 @@ The analysis is driven by a Python-based pipeline (`penguin_morphology_analysis.
 **Gorman KB, Williams TD, Fraser WR (2014)** Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus *Pygoscelis*). *PLoS ONE* 9(3): e90081.
 
 **Horst AM, Hill AP, Gorman KB (2020)** *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*.
-Is there anything else from the previous sections you need me to re-format into a code block
